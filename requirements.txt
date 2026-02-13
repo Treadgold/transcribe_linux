@@ -1,0 +1,6 @@
+openai-whisper
+rich
+sounddevice
+numpy
+torch
+tqdm
