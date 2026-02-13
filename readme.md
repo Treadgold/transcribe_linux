@@ -2,6 +2,9 @@
 
 A high-performance Python tool that provides a live-updating terminal dashboard for transcribing microphone audio in real-time.
 
+![Terminal Screenshot](screenshot.jpg "Screenshot")
+
+
 ## ✨ Features
 
 - 🖥️ **Rich Terminal UI**: Live VU meter, status updates, and word-wrapped transcription area.
